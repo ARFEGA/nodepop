@@ -1,0 +1,152 @@
+{
+    "anuncios": [{
+            "nombre": "Bicicleta",
+            "venta": true,
+            "precio": 50,
+            "foto": "images/anuncios/bici.jpg",
+            "tags": ["lifestyle", "motor"]
+        },
+        {
+            "nombre": "iPhone3GS",
+            "venta": false,
+            "precio": 9,
+            "foto": "images/anuncios/iphone.png",
+            "tags": ["lifestyle", "mobile"]
+        },
+        {
+            "nombre": "Chaleco Seguridad",
+            "venta": true,
+            "precio": 4,
+            "foto": "images/anuncios/chaleco_seguridad.png",
+            "tags": [
+                "work"
+            ]
+        },
+        {
+            "nombre": "Gafas Seguridad",
+            "venta": false,
+            "precio": 7,
+            "foto": "images/anuncios/gafas_seguridad.jpg",
+            "tags": [
+                "work"
+            ]
+        },
+        {
+            "nombre": "Arnes Anticaidas",
+            "venta": true,
+            "precio": 9,
+            "foto": "images/anuncios/arnes_anticaidas.jpg",
+            "tags": [
+                "work"
+            ]
+        },
+        {
+            "nombre": "Cascos Proteccion Acustica",
+            "venta": true,
+            "precio": 25,
+            "foto": "images/anuncios/cascos_ruido.png",
+            "tags": [
+                "work"
+            ]
+        },
+        {
+            "nombre": "Botas Seguridad",
+            "venta": true,
+            "precio": 20,
+            "foto": "images/anuncios/BOTAS_SEGURIDAD.png",
+            "tags": [
+                "work"
+            ]
+        },
+        {
+            "nombre": "Guante riesgos termicos",
+            "venta": true,
+            "precio": 55,
+            "foto": "images/anuncios/guante-riesgos-termicos.png",
+            "tags": [
+                "work"
+            ]
+        },
+        {
+            "nombre": "Guantes riesgos mecanicos",
+            "venta": true,
+            "precio": 55,
+            "foto": "images/anuncios/guantes-riesgos-mecanicos.png",
+            "tags": [
+                "work"
+            ]
+        },
+        {
+            "nombre": "Zapatillas Ciclismo",
+            "venta": true,
+            "precio": 76,
+            "foto": "images/anuncios/ZAPATILLA_CICLISMO.png",
+            "tags": [
+                "lifestyle"
+            ]
+        },
+        {
+            "nombre": "GAFAS FOTOCROMATICAS",
+            "venta": true,
+            "precio": 125,
+            "foto": "images/anuncios/GAFAS_FOTOCROMATICAS.png",
+            "tags": [
+                "lifestyle"
+            ]
+        },
+        {
+            "nombre": "CASCO CICLISTA",
+            "venta": true,
+            "precio": 120,
+            "foto": "images/anuncios/CASCO_AMARILLO.JPG",
+            "tags": [
+                "lifestyle"
+            ]
+        },
+        {
+            "nombre": "OLD_PHONE_1",
+            "venta": true,
+            "precio": 120,
+            "foto": "images/anuncios/OLD_PHONE1.JPG",
+            "tags": [
+                "lifestyle"
+            ]
+        },
+        {
+            "nombre": "OLD_PHONE_2",
+            "venta": true,
+            "precio": 120,
+            "foto": "images/anuncios/OLD_PHONE2.jpg",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "nombre": "volkswagen GOLF",
+            "venta": true,
+            "precio": 30000,
+            "foto": "images/anuncios/volkswagen_GOLF.png",
+            "tags": [
+                "motor"
+            ]
+        },
+        {
+            "nombre": "OLD CAR",
+            "venta": false,
+            "precio": 30000,
+            "foto": "images/anuncios/OLD_CAR3.jpg",
+            "tags": [
+                "motor"
+            ]
+        },
+        {
+            "nombre": "Aston Martin",
+            "venta": false,
+            "precio": 300000,
+            "foto": "images/anuncios/Aston_Martin.png",
+            "tags": [
+                "motor"
+            ]
+        }
+    ]
+}

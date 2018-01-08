@@ -1,0 +1,24 @@
+{
+
+    "en": {
+
+        "INVALID_TOKEN": "Invalid token",
+        "NO_TOKEN": "No token provided",
+        "AUTH_FAILED": "Authentication failed",
+        "USER_NOT_FOUND": "user not found",
+        "WRONG_PWD": "Authentication failed, wrong pwd",
+        "FIELDS_REQUIRED": "Nombre, email, pwd and lang are fields required. Lang field only can be 'ES' or 'EN'",
+        "DUPLICATE_KEY": "duplicate key"
+    },
+    "es": {
+        "INVALID_TOKEN": "Token no valido",
+        "NO_TOKEN": "Token no facilitado",
+        "AUTH_FAILED": "Autenticacion erronea",
+        "USER_NOT_FOUND": "Usuario no encontrado",
+        "WRONG_PWD": "Autenticación fallida, clave incorrecta",
+        "FIELDS_REQUIRED": "Nombre, email, pwd y lang son fcampos obligatorios. El campo Lang, solo puede ser 'ES' o 'EN'",
+        "DUPLICATE_KEY": "Nombre y/o pwd existentes."
+    }
+
+
+}

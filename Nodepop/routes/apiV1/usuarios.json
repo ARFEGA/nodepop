@@ -1,0 +1,16 @@
+{
+    "usuarios": [{
+            "nombre": "Juan",
+            "email": "a.@gmail.com",
+            "pwd": "1234",
+            "lang": "es"
+
+        },
+        {
+            "nombre": "Pepe",
+            "email": "pepe@gmail.com",
+            "pwd": "1234",
+            "lang": "en"
+        }
+    ]
+}
