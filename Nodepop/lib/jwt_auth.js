@@ -25,6 +25,8 @@ module.exports = () => {
             //Podemos crear propiedades con cualquier nombre y guardar datos
             //user_id de decoded, es la propiedad que dimos al usurario, cuando creamos el token.
             //req.user_id = decoded.user_id;
+            //Esta posibilidad la utilizamos para guardar el lenguaje del usuario, pudiendo devolver los errores
+            //en el lenguaje correcto.
             req.user_lang = decoded.lang;
             //Pasamos el flujo al siguiente middleware
             next();

@@ -94,28 +94,7 @@ router.post('/Inserta', (req, res, next) => {
     });
 });
 
-/**
- * Listado de anuncios
- */
 
-router.get('/Lista/:id', async(req, res, next) => {
-    try {
-        var filter = {};
-        if (req.params.id) {
-            const _id = req.params.id;
-            filter = { _id };
-        }
-        Anuncio.findOne(filter, (err, data) => {
-            if (err) {
-                next(err);
-                return;
-            }
-            res.json({ success: true, result: data });
-        });
-    } catch (err) {
-        res.send('Error en la obtención de datos');
-    }
-});
 
 /**
  * Borrado de Anuncio
